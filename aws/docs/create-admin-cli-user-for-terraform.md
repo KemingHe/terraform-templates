@@ -48,6 +48,7 @@ This guide focuses specifically on creating and configuring an IAM user with adm
 ### 4. Configure AWS CLI v2
 
 Run:
+
 ```bash
 aws configure
 ```
